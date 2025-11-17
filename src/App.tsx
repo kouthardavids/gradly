@@ -1,4 +1,4 @@
-import UniPathLanding from "./components/landing/UniPathLanding";
+import UniPathLanding from "./pages/landing/UniPathLanding";
 
 const App = () => {
     return (
